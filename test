@@ -1,0 +1,37 @@
+
+[33mcommit 311148013eac1d1f0df75aea6766ca6588c7934b[m
+Merge: 07c0769 e10c8f7
+Author: mrSpringpeace <mrSpringpeace@seznam.cz>
+Date:   Wed Jun 5 20:12:17 2024 +0200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 07c0769579f68ec44ae93dd23de921b3471108c0[m
+Author: mrSpringpeace <mrSpringpeace@seznam.cz>
+Date:   Wed Jun 5 19:36:51 2024 +0200
+
+    E: contents.md updated
+
+[33mcommit e10c8f7b521bf0ca623778968296e636efef72de[m
+Author: mrSpringpeace <mrSpringpeace@seznam.cz>
+Date:   Wed Jun 5 19:02:19 2024 +0200
+
+    D: classics
+
+[33mcommit 29ba05460643d7844d9ac5beddf2397e89359775[m
+Author: mrSpringpeace <mrSpringpeace@seznam.cz>
+Date:   Tue Jun 4 22:24:05 2024 +0200
+
+    C: add quotes
+
+[33mcommit 8c91232ebceb0491e001c07638bd3d987c962853[m
+Author: mrSpringpeace <mrSpringpeace@seznam.cz>
+Date:   Tue Jun 4 22:10:28 2024 +0200
+
+    B: add titles
+
+[33mcommit ed887feed7a657bd87fb062d63b82117ee5b5238[m
+Author: mrSpringpeace <mrSpringpeace@seznam.cz>
+Date:   Tue Jun 4 20:55:37 2024 +0200
+
+    A: add contents.md
